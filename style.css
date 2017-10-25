@@ -59,3 +59,12 @@ p {
   display:block;
   margin: 0;
 }
+.share {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-right: 2em;
+  padding-left: 2em;
+  float: right;
+  background-color: maroon;
+  color: white;
+}
