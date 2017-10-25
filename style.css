@@ -33,3 +33,29 @@ p {
   display: inline-block;
   width: 0  auto;
 }
+.title {
+  width: 100%;
+  display: inline-block;
+}
+.printicon{
+  display: inline-block;
+  width: 0  auto;
+  float: right;
+}
+.cakeimage, .recipe {
+  text-align: center;
+}
+.paragraphs{
+  text-indent: 2em;
+}
+.van {
+  width: 0  auto;
+  display: block;
+}
+.footer{
+  text-align: center;
+}
+.footerp{
+  display:block;
+  margin: 0;
+}
