@@ -1,3 +1,9 @@
 * {
   box-sizing: border-box;
 }
+
+.header{
+  border-style: solid;
+  border-bottom: thick dotted black;
+  margin: 20px;
+}
