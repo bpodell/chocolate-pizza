@@ -1,25 +1,35 @@
 * {
   box-sizing: border-box;
+  border: 1px solid black;
 }
 
 .header{
-  border-style: solid;
+  /*border-style: solid;
   border-bottom: thick dotted black;
   margin: 20px;
+  display: inline-block;*/
+  /*width: 100%;
+  height: 200px;*/
   display: inline-block;
   width: 100%;
-  height: 200px;
+
 }
 .headertext{
-  width: 25%;
-  height: 50px;
-  margin: 0;
-  float: left;
+  /*width: 0 auto;
+  margin: 0;*/
+
 
 }
 .headericons{
-  text-align: right;
+  /*text-align: right;
   width:25%;
   height: 50px;
-  margin: 0;
+  margin: 0;*/
+  display: inline-block;
+  width: 0  auto;
+  float: right;
+}
+p {
+  display: inline-block;
+  width: 0  auto;
 }
